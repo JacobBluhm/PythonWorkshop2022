@@ -45,7 +45,7 @@ Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af diss
   * [Opgaver](https://colab.research.google.com/drive/1-K44Sw_r6SnIOmrjsxo6lkz2HUPnRHjC)
 
 ## Materiale
-Kurset er baseret på bogen [Think Python, 2ed](https://greenteapress.com/wp/think-python-2e/). Bogen er gratis, så jeg anbefaler i giver den et skud eller kigger jer omkring.
+Kurset er baseret på bogen [Think Python, 2ed](https://greenteapress.com/wp/think-python-2e/). Bogen er gratis, så jeg anbefaler i giver den et skud eller kigger jer omkring. 
 
 Søger i ekstra materiale kan i give nogle af disse et skud:
 * [Python og standardbiblioteket](https://docs.python.org/3/library/index.html): Den officielle dokumentation til Python
